@@ -10,6 +10,6 @@ def  getimageallpath( dirpath,savefile):
             f.write(imagepath +  '\n' )
     print( 'Done' )
 
-getimageallpath( '/home/songyi/worker/123/forklift/forklift/train/images' ,'train.txt' )
+getimageallpath( 'train/images' ,'train.txt' )
 
-getimageallpath( '/home/songyi/worker/123/forklift/forklift/test/images' ,'test.txt' )
+getimageallpath( 'test/images' ,'test.txt' )
