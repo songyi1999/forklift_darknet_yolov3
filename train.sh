@@ -1,2 +1,2 @@
 #!/bin/bash
-darknet detector train obj.data forklift.cfg darknet53.conv.74
+./darknet detector train obj.data forklift.cfg darknet53.conv.74
