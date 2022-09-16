@@ -1,0 +1,4 @@
+backup/*
+train/*
+test/*
+darknet53.conv.74
